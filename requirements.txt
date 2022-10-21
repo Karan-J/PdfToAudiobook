@@ -1,0 +1,6 @@
+path==16.5.0
+pydub==0.25.1
+pyobjc==8.5.1
+PyPDF4==1.27.0
+pyttsx3==2.90
+SpeechRecognition==3.8.1
